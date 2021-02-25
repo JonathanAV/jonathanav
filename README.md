@@ -16,6 +16,6 @@
 </br>
 
 # Schools/Escuelas: </br>
-## Elementary School/Primaria: Anahuac </br>
-## Middle School/Secundaria: Secundaria General Num. 4 </br>
-## High School/Preparatoria: Cecyte </br>
+## Elementary School/Primaria: Anahuac :tada: </br>
+## Middle School/Secundaria: Secundaria General Num. 4 :tada: </br>
+## High School/Preparatoria: Cecyte :tada: </br>
